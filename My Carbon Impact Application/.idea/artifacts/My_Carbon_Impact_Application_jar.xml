@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="My Carbon Impact Application:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/My_Carbon_Impact_Application/non_ex.jar</output-path>
+    <root id="archive" name="My Carbon Impact Application.jar">
+      <element id="module-output" name="My Carbon Impact Application" />
+    </root>
+  </artifact>
+</component>

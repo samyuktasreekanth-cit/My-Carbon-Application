@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="My_Carbon_Impact_Application.jnlp">
+  <information>
+    <title>My Carbon Impact Application</title>
+    <vendor>Unknown</vendor>
+    <description>My Carbon Impact Application</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="My_Carbon_Impact_Application.jar" size="57582" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="600" height="400" main-class="View.java"  name="My Carbon Impact Application" />
+  <update check="background"/>
+</jnlp>
